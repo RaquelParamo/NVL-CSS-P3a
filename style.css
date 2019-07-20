@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+div#container{
+	align-items:flex-start;
+	display:inline;
+}
+h1 {
+	background-color:#56ABAF;
+	text-align: center;
+	color:#000000;
+}
+
+h2 {
+	background-color:#9ECFD0;
+	text-align:left;
+	color:#000000;
+}
+
+p {
+	text-decoration:blink;
+	color:#000000;
+}
+
+div#lunes {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+div#martes {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+div#miercoles {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+div#jueves {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+div#viernes {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+
+footer {
+	text-emphasis:accent;
+	background-color:#011367;
+	color:#FFFFFF;
+	text-align:center;
+}

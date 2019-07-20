@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+div#lunes {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+div#martes {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+div#miercoles {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+div#jueves {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
+div#viernes {
+	width:20%;
+	float:left;
+	background-color:#D3F6FF;
+}
